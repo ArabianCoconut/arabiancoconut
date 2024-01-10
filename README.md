@@ -14,6 +14,8 @@ SWE from India for biologists 🔬.
 - ⚡ I write code for fun from system applications, cloud applications, web applications, and scripts.
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ArabianCoconut-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maheirkapadia)
 
+---
+
 ## 🛠️ Languages and Frameworks :
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
@@ -27,12 +29,11 @@ SWE from India for biologists 🔬.
   <img src="https://github.com/devicons/devicon/blob/develop/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
+
+---
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats-omega-eight.vercel.app?user=arabiancoconut&theme=discord-old-blurple)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arabiancoconut&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  
-</p>
