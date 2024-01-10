@@ -1,4 +1,5 @@
 <p align="center"><img src="https://media4.giphy.com/media/odTTszSU3M3pb5I9eW/giphy.gif" width="200"/></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7993F&center=true&multiline=true&random=false&width=435&lines=Arabian+Coconut;Software+Engineer)](https://git.io/typing-svg)
 <p align="center">
 <a href="https://www.linkedin.com/in/maheirkapadia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <p align="center">
