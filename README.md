@@ -1,5 +1,6 @@
 <p align="center"><img src="https://media4.giphy.com/media/odTTszSU3M3pb5I9eW/giphy.gif" width="200"/></p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7993F&center=true&multiline=true&random=false&width=435&lines=Arabian+Coconut;Software+Engineer)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F7993F&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=80&lines=Arabian+Coconut;Software+Engineer" alt="Typing SVG" /></a>
 <p align="center">
 <a href="https://www.linkedin.com/in/maheirkapadia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <p align="center">
@@ -28,7 +29,7 @@ SWE from India for biologists 🔬.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arabiancoconut)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-omega-eight.vercel.app?user=arabiancoconut&theme=discord-old-blurple)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arabiancoconut&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
