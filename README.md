@@ -34,6 +34,9 @@ SWE from India for biologists 🔬.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats-omega-eight.vercel.app?user=arabiancoconut&theme=discord-old-blurple)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arabiancoconut&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arabiancoconut&theme=2077)](https://github-profile-summary-cards.vercel.app) [![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arabiancoconut&theme=2077)](https://github-profile-summary-cards.vercel.app)
+
+[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arabiancoconut&theme=2077)](https://github-profile-summary-cards.vercel.app)
+
+
