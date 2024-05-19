@@ -35,8 +35,6 @@ SWE from India for biologists 🔬.
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arabiancoconut&theme=2077)](https://github-profile-summary-cards.vercel.app) [![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arabiancoconut&theme=2077)](https://github-profile-summary-cards.vercel.app)
+[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arabiancoconut&theme=2077)](https://github-profile-summary-cards.vercel.app) [![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arabiancoconut&theme=2077)](https://github-profile-summary-cards.vercel.app) 
 
-[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arabiancoconut&theme=2077)](https://github-profile-summary-cards.vercel.app)
-
-
+[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arabiancoconut&theme=2077)](https://github-profile-summary-cards.vercel.app) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arabiancoconut&theme=2077&utcOffset=5.30)
