@@ -11,7 +11,7 @@
 SWE from India for biologists 🔬.
 - 💻 I am a hobbyist software engineer who codes for fun.
 - 📚 Masters in Biochem and Bachelors in CS.
-- ⚡ I write code for fun from system applications, cloud applications, web applications, and scripts.
+- ⚡ I write code for fun from Application Software, cloud applications, web applications, and scripts.
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ArabianCoconut-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maheirkapadia)
 
 ---
